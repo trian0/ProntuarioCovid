@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706892148326",
+    "project_id": "prontuariocovid",
+    "storage_bucket": "prontuariocovid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706892148326:android:2b2bea1b1a0366880ec7a7",
+        "android_client_info": {
+          "package_name": "com.example.prontuariocovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706892148326-q3uglueno6mt8g80rbilrai5moe0i8ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBwCoMio_xtH5qwmCnQF_qdemRQkKizU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706892148326-q3uglueno6mt8g80rbilrai5moe0i8ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

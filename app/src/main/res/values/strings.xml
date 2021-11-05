@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProntuarioCovid</string>
+    <string name="visitou_os_seguintes_pa_ses">Visitou os seguintes países? Se sim, á quantas semanas?</string>
+    <string name="cadastre_seus_dados">Cadastre seus dados!</string>
+    <string name="dias">Dias</string>
+    <string name="enviar">Enviar</string>
+    <string name="eua">EUA</string>
+    <string name="portugal">Portugal</string>
+    <string name="indonesia">Indonésia</string>
+    <string name="china">China</string>
+    <string name="italia">Itália</string>
+</resources>
